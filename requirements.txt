@@ -8,3 +8,4 @@ matplotlib
 seaborn
 joblib
 altair==4.2.2
+python3 -m pip install --upgrade Pillow
